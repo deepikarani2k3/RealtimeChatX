@@ -1,7 +1,6 @@
 {
   "name": "realtimechatx",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -14,5 +13,14 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepikarani2k3/RealtimeChatX.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepikarani2k3/RealtimeChatX/issues"
+  },
+  "homepage": "https://github.com/deepikarani2k3/RealtimeChatX#readme",
+  "description": ""
 }
